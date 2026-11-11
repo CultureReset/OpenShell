@@ -1,3 +1,14 @@
+> **CultureReset fork of [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell).** OpenShell is the safe, private runtime for autonomous AI agents.
+>
+> - **Why it is here:** Saved as a reference while building NODE's agents, memory and tools.
+> - **Does anything run from it:** No.
+> - **Changes:** The default branch has no CultureReset commits; it is upstream as of the last sync.
+> - **License:** Apache-2.0, from upstream. For updates and issues, use [upstream](https://github.com/NVIDIA/OpenShell).
+>
+> The upstream README follows unchanged.
+
+---
+
 <!-- markdownlint-disable MD033 MD041 -->
 
 <picture>
